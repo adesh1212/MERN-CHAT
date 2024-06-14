@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;200;300;400;500;600&family=Work+Sans:wght@300&display=swap");
+* {
+  font-family: "Josefin Sans", sans-serif;
+  font-family: "Work Sans", sans-serif;
+}
+.bg {
+  min-height: 100vh;
+  /* display: flex; */
+  /* background-image: url("./Assets/pexels-lumn-311039.jpg");
+  background-position: center;
+  background-size: cover; */
+}

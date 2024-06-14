@@ -1,0 +1,10 @@
+.messages{
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;   
+}
+
+/* Hide the scrollbar */
+.messages::-webkit-scrollbar {
+  width: 0;
+}
